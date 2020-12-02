@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JpgToPngConverter</string>
+    <string name="name_bt_converted">Converted Jpg to Png</string>
+    <string name="convert_in_progress">Идет конвертация...</string>
+    <string name="cancel">Отмена</string>
+    <string name="convertation_success">Конвертация выполнена</string>
+    <string name="convertation_cancel">Конвертация отменена</string>
+    <string name="convertation_error">Ошибка конвертации</string>
+</resources>
